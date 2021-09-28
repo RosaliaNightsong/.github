@@ -1,12 +1,6 @@
-# Project Name
+# GitHub Repo
 
-Project Description
-
-## Live Version
-
-This page is not yet deployed.
-
-<!--This page is currently deployed. [View the live website.]()-->
+This is a special repository to display this organisation's README.
 
 ## Feedback and Bugs
 
